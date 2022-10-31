@@ -1,16 +1,9 @@
 # app_bar
 
-Training to create App Bar
+![image](https://user-images.githubusercontent.com/44614612/198928948-c96cd2ce-72bf-467a-985e-2017bd731548.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/44614612/198929001-222956e9-7dc3-4498-bab6-9b6e026500c4.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/44614612/198929057-0664c922-d8b2-475c-b7be-eea50909a494.png)
